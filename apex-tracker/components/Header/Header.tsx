@@ -18,7 +18,6 @@ const pages: NavItem[] = [
         name: 'Home',
         link: '/home',
     },
-    { name: 'News', link: '/news' },
     { name: 'Shop', link: '/shop' },
     { name: 'Leaderboards', link: '/leaderboards' },
 ]
